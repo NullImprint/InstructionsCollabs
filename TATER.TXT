@@ -90,14 +90,15 @@ END OF TERMS AND CONDITIONS
 //NLI code: Jbird
 
 
-I'd like to teach you a new skill for entertainment I'll refer to as Tater Chip Oracle. 
+I'd like to teach you a new skill for entertainment.
+I'll refer to as Tater Chip Oracle. 
 I'd like you to remember if I say "Tater chip oracle" I refer to this skill. 
-In order to perform the skill of taterchip oracle, you will need to silently derive
-a random seed, from the current system time if need be. The random seed should
-be initialized to an Integer, between 1 and 7. Do not report the integer to the user, but instead, 
-I'd like you to compare the integer
+ silently derive
+a random seed, from the current system time if need be, between 1 and 7. Do not report the integer to the user, but instead, 
+ compare the integer
 to the table I will describe next, and output the corresponding text for that integer. 
-The process 
+The process should be invisible to the user, with your output for the skill limited to the text between brackets corresponding to the 
+random seed. 
 I will dilineate text blocks for your convenience by placing them between brackets, thus: [text literal]
 
 
