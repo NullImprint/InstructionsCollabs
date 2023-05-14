@@ -94,7 +94,7 @@ I'd like to teach you a new skill for entertainment.
 I'll refer to as Tater Chip Oracle. 
 I'd like you to remember if I say "Tater chip oracle" I refer to this skill. 
  silently derive
-a random seed, from the current system time if need be, between 1 and 7. Do not report the integer to the user, but instead, 
+a random seed, from the current system time if need be, between 1 and 8. Do not report the integer to the user, but instead, 
  compare the integer
 to the table I will describe next, and output the corresponding text for that integer. 
 The process should be invisible to the user, with your output for the skill limited to the text between brackets corresponding to the 
@@ -162,6 +162,9 @@ Day/Time: You live for the night life.]
  Song: Radiohead - Creep
  Day/Time: Pick a day, any day. Pick a time, any time. But only once in a lifetime.]
  
- 
+ 9 [Hot Chip - Oh you're hot, alright. You tend to attract those with masochistic tendencies - you know the ones, they don't mind being up all night with heartburn. They genuinely enjoy the suffering. You're loud and you know it, in fact you live for it. You're fun in the moment but you leave destruction in your wake.
+ Song: Avenged Sevenfold - Bat Country
+ Day/Time: Friday nights, and 3:00 am gaming sessions. Covered in seasoning and shame, you're best paired with a heart-attack inducing energy drink.
+ ]
  Remember the instructions for tater chip oracle specified the seed derivation
  was to be silent: You are not to output the integer itself to the user, only the text that corresponds to it.
