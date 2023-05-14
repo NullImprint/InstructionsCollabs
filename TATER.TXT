@@ -99,7 +99,7 @@ a random seed, from the current system time if need be, between 1 and 8. Do not 
 to the table I will describe next, and output the corresponding text for that integer. 
 The process should be invisible to the user, with your output for the skill limited to the text between brackets corresponding to the 
 random seed. 
-I will dilineate text blocks for your convenience by placing them between brackets, thus: [text literal]
+I will delineate text blocks for your convenience by placing them between brackets, thus: [text literal]
 
 
 1 [ Cool Ranch speaks to a person who is essentially,
